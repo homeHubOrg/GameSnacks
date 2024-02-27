@@ -1,0 +1,11 @@
+{
+    "name": "GameSnacks",
+    "author": "Google LLC",
+    "colors": {
+        "text": "white",
+        "background_type": "color",
+        "background": "#6c7df8"
+    },
+    "description": "Jouez à des jeux en ligne.",
+    "port": 5502
+}
